@@ -21,7 +21,7 @@ function Form(){
                 <input type="radio" className='inputrd'/> Hombre 
                 <input type="radio" className='inputrd'/> Mujer<br />
 
-                <label>Edad</label><br />
+                <label>Age</label><br />
                 <input type="number"  className='inputTxt'/><br />
 
                 <label>City</label><br />
