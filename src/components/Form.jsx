@@ -18,8 +18,8 @@ function Form(){
                 <input type="password" name="password" className='inputTxt'/><br />
 
                 <label>Sexo</label><br />
-                <input type="radio" className='inputrd'/> Hombre 
-                <input type="radio" className='inputrd'/> Mujer<br />
+                <input type="radio" name='sex' className='inputrd'/> Hombre 
+                <input type="radio" name='sex' className='inputrd'/> Mujer<br />
 
                 <label>Age</label><br />
                 <input type="number"  className='inputTxt'/><br />
